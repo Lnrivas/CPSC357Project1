@@ -9,7 +9,7 @@
 1. Project1.playground
 
 ## Known Errors
-Mo errors
+No errors
 
 ## References
 Worked alone.
